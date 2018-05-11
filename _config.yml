@@ -1,8 +1,8 @@
 # Site Settings
 title: Zabeeh
-url: "http://www.zabeeh.io"
-baseurl: "/index.html" #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+url: "zabeeh.io"
+baseurl: "" #change it according to your repository name
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
@@ -19,7 +19,7 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 # Sidebar links
 email: zabeeh96@gmail.com
-phone: 267 205 2866
+phone: 267-205-2866
 website:  #do not add http://
 linkedin: 
 github: 
