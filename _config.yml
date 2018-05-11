@@ -1,7 +1,7 @@
 # Site Settings
 title: Zabeeh
-url: 'www.zabeeh.io'
-baseurl: "" #change it according to your repository name
+url: ""
+baseurl: "www.zabeeh.io" #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
