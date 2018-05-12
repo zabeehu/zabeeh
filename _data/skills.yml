@@ -1,15 +1,18 @@
 - skill:
   name: MS Office
-  level: 90%
+  level: 70%
 - skill:
   name: HTML5 & CSS
-  level: 50%
+  level: 65%
 - skill:
   name: SQL
-  level: 50%
+  level: 70%
 - skill:
   name: WordPress
-  level: 80%
+  level: 75%
 - skill:
   name: Drupal
-  level: 70%
+  level: 65%
+- skill:
+  name: SharePoint
+  level: 60%
