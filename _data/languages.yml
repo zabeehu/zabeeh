@@ -4,9 +4,12 @@
 - language:
   idiom: IT Project Management
   level: 
-- language:
-  idiom: Speech Communications
+  - language:
+  idiom: Logic and Discrete Mathematics
+  level: 
+  - language:
+  idiom: Object Oriented Design and Software Applications
   level: 
 - language:
-  idiom: Object Oriented Design
+  idiom: Speech Communications
   level: 
