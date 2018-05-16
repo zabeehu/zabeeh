@@ -11,6 +11,9 @@
   name: SQL
   level: 70%
 - skill:
+  name: JavaScript
+  level: 45%
+- skill:
   name: WordPress
   level: 75%
 - skill:
