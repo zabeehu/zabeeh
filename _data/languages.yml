@@ -1,7 +1,7 @@
 - language:
   idiom: Database Management and Administration
   level: 
-- language:
+  - language:
   idiom: IT Project Management
   level: 
   - language:
@@ -10,6 +10,6 @@
   - language:
   idiom: Object Oriented Design and Software Applications
   level: 
-- language:
+  - language:
   idiom: Speech Communications
   level: 
