@@ -3,12 +3,12 @@ projects:
   - project:
     title: Emerging Issues in Technology
     link: 
-    tagline: "<br>Designed a Sharepoint intranet site to increase the company's collaboration power"
+    tagline: "<br><i>Role: Team Leader </i><br>Designed a Sharepoint intranet site to increase the company's collaboration power"
   - project:
     title: IST Integration
     link: 
-    tagline: "<br>Role: Designer and Tester <br> Developed a 2D arcade game using Unity, with all original artwork"
+    tagline: "<br><i>Role: Designer and Tester</i> <br> Developed a 2D arcade game using Unity, with all original artwork"
   - project:
     title: <a href="https://techundr.com" target="_blank">TechUndr.com</a>
     link:
-    tagline: "<br>A curated showcase of cool tech products available on Amazon, made with WordPress"
+    tagline: "<br><i>Role: Owner </i><br>A curated showcase of cool tech products available on Amazon, made with WordPress"
