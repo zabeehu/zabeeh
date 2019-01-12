@@ -8,7 +8,7 @@ projects:
     title: IST Integration
     link: 
     tagline: "<br><i>Role: Designer and Tester</i> <br> Developed a 2D arcade game using Unity, with all original artwork"
-  - project:
-    title: <a href="https://techundr.com" target="_blank">TechUndr.com</a>
-    link:
-    tagline: "<br><i>Role: Owner </i><br>A curated showcase of cool tech products available on Amazon, made with WordPress"
+  #- project:
+  #  title: <a href="https://techundr.com" target="_blank">TechUndr.com</a>
+  #  link:
+  #  tagline: "<br><i>Role: Owner </i><br>A curated showcase of cool tech products available on Amazon, made with WordPress"
