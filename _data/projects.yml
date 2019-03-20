@@ -1,13 +1,21 @@
 intro: 
 projects:
-  - project: Web
+  - project:
     title: Built websites that received traffic and earned commission
+    link:
+    tagline:
   - project:
     title: Managed profitable e-commerce ad campaigns
+    link:
+    tagline:
   - project:
     title: Proficient with WordPress, jekyll, Shopify, and ClickFunnels
+    link:
+    tagline:
   - project:
     title: Skilled in repairing smartphones and building computers
+    link:
+    tagline:
   #- project:
     #title: Emerging Issues in Technology
     #link: 
