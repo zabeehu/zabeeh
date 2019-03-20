@@ -1,13 +1,21 @@
 intro: 
 projects:
+  - project: Web
+    title: Built websites that received traffic and earned commission
   - project:
-    title: Emerging Issues in Technology
-    link: 
-    tagline: "<br><i>Role: Team Leader </i><br>Designed a Sharepoint intranet site to increase the company's collaboration power"
+    title: Managed profitable e-commerce ad campaigns
+  -project:
+    title: Proficient with WordPress, jekyll, Shopify, and ClickFunnels
   - project:
-    title: IST Integration
-    link: 
-    tagline: "<br><i>Role: Designer and Tester</i> <br> Developed a 2D arcade game using Unity, with all original artwork"
+    title: Skilled in repairing smartphones and building computers
+  #- project:
+    #title: Emerging Issues in Technology
+    #link: 
+    #tagline: "<br><i>Role: Team Leader </i><br>Designed a Sharepoint intranet site to increase the company's collaboration power"
+  #- project:
+    #title: IST Integration
+    #link: 
+    #tagline: "<br><i>Role: Designer and Tester</i> <br> Developed a 2D arcade game using Unity, with all original artwork"
   #- project:
   #  title: <a href="https://techundr.com" target="_blank">TechUndr.com</a>
   #  link:
