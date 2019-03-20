@@ -1,29 +1,17 @@
 - experience:
-  role: IT Systems Implementation and Integration
-  time: November 2018 - Present
+  role: IT Systems Integration
+  time: 2018 - Present
   company: Futura Mobility, Philadelphia, PA
   details: "
   <ul>
-  <li>Hardware infrastructure establishment</li>
-  <li>Quality assurance and software testing</li>
-  <li>Inventory management</li>
-  <li>Agile workflow</li>
+  <li>Integrated new hardware infrastructure for nearby hospitals</li>
+  <li>Tested and fixed newly built stations</li>
+  <li>Performed quality assurance</li>
+  <li>Worked with agility and consistently met deadlines</li>
   </ul>"
 - experience:
-  role: Technology Specialist
-  time: January 2014 - November 2018
-  company: JRZ Brothers Inc, Philadelphia, PA
-  details: "
-  <ul>
-  <li>Resolved customer issues</li>
-  <li>Managed and expanded inventory</li>
-  <li>Diagnosed and repaired damaged hardware</li>
-  <li>Implemented and supported point of sale system</li>
-  <li>Provided efficient customer service</li>
-  </ul>"
-- experience:
-  role: Student Marketing Intern
-  time: January 2018 - May 2018
+  role: Marketing Intern
+  time: Spring 2018
   company: The Pennsylvania State University, Abington, PA
   details: "
   <ul>
@@ -33,8 +21,19 @@
   <li>Improved search engine optimization</li>
   </ul>"
 - experience:
+  role: Technology Specialist
+  time: 2014 - 2018
+  company: JRZ Brothers Inc, Philadelphia, PA
+  details: "
+  <ul>
+  <li>Resolved customer issues</li>
+  <li>Diagnosed and repaired damaged hardware</li>
+  <li>Implemented and supported point of sale system</li>
+  <li>Performed research and expanded inventory</li>
+  </ul>"
+- experience:
   role: Shift Leader
-  time: May 2013 - August 2013
+  time: Summer 2013
   company: Cold Stone Creamery, Rehoboth, DE
   details: "
   <ul>
