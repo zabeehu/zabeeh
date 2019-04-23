@@ -1,24 +1,15 @@
 - skill:
-  name: Search Engine Optimization
-  level: 70%
+  name: Web Development
+  level: 60%
 - skill:
-  name: Google Analytics
-  level: 80%
+  name: Software Development
+  level: 40%
 - skill:
-  name: HTML5 & CSS
-  level: 65%
-- skill:
-  name: SQL
-  level: 70%
-- skill:
-  name: JavaScript
+  name: Database Management and Administration
   level: 50%
 - skill:
-  name: WordPress
-  level: 75%
-- skill:
-  name: Drupal
-  level: 65%
-- skill:
-  name: SharePoint
+  name: Project Management
   level: 60%
+- skill:
+  name: Customer Service
+  level: 75%

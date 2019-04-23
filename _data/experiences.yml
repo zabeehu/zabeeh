@@ -1,44 +1,53 @@
 - experience:
-  role: IT Systems Integration
-  time: 2018 - Present
-  company: Futura Mobility, Philadelphia, PA
-  details: "
-  <ul>
-  <li>Integrated new hardware infrastructure for nearby hospitals</li>
-  <li>Tested and fixed newly built stations</li>
-  <li>Performed quality assurance</li>
-  <li>Worked with agility and consistently met deadlines</li>
-  </ul>"
-- experience:
-  role: Marketing Intern
-  time: Spring 2018
-  company: The Pennsylvania State University, Abington, PA
-  details: "
-  <ul>
-  <li>Restructured landing pages</li>
-  <li>Elevated conversion rates</li>
-  <li>Enhanced user experience</li>
-  <li>Improved search engine optimization</li>
-  </ul>"
-- experience:
-  role: Technology Specialist
-  time: 2014 - 2018
+  role: IT Support Speicalist
+  time: February 2016 - Present
   company: JRZ Brothers Inc, Philadelphia, PA
   details: "
   <ul>
-  <li>Resolved customer issues</li>
-  <li>Diagnosed and repaired damaged hardware</li>
-  <li>Implemented and supported point of sale system</li>
-  <li>Performed research and expanded inventory</li>
+  <li>Helped introduce computer and phone repair services which added another income source</li>
+  <li>Integrated network DVR security system which can be accessed anywhere</li>
+  <li>Found new suppliers for popular products which increased profitability</li>
+  <li>Implemented new POS system that includes business management and reporting capabilities</li>
   </ul>"
 - experience:
+  role: IT Field Technician
+  time: November 2018 - March 2019
+  company: Futura Mobility, Philadelphia, PA
+  details: "
+  <ul>
+  <li>Integrated new hardware for nearby hospitals: Medical computer carts, nurse stations, and office desk setups</li>
+  <li>Tested and finalized newly built stations</li>
+  <li>Performed quality assurance for our team and ensured professional-level cable management</li>
+  <li>Communicated with IT directors and project managers to maintain efficiency</li>
+  </ul>"
+- experience:
+  role: Digital Marketing Intern
+  time: January 2018 - May 2018
+  company: The Pennsylvania State University, Abington, PA
+  details: "
+  <ul>
+  <li>Restructured landing pages to increase conversion rates on campus website</li>
+  <li>Enhanced user experience by adding engaging content and updating layout</li>
+  <li>Improved site structure and updated URLs to improve SEO and navigation</li>
+  <li>Worked with Digital Marketing Manager to resolve tickets and implement new features</li>
+  </ul>"
+- experience:
+  role: Repair Technician
+  time: January 2015 - February 2016
+  company: FZIT Electronics, Philadelphia, PA
+  details: "
+  <ul>
+  <li>Helped manage over 50 online transactions weekly from online sales</li>
+  <li>Diagnosed, repaired, and imaged Apple and Windows computers</li>
+  <li>Worked with founder to improve business processes and find suppliers</li>
+  </ul>"
+  - experience:
   role: Shift Leader
-  time: Summer 2013
+  time: May 2013 - August 2013
   company: Cold Stone Creamery, Rehoboth, DE
   details: "
   <ul>
-  <li>Provided efficient and prompt service</li>
-  <li>Led and managed shifts</li>
-  <li>Prepared and completed customer orders</li>
-  <li>Restocked supplies and ingredients</li>
+  <li>Provided prompt service in a fast-paced environment</li>
+  <li>Prepared orders to customer request and performed transactions at register</li>
+  <li>Ensured adequate inventory by ordering and stocking supplies</li>
   </ul>"
