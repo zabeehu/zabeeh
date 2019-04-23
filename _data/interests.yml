@@ -1,7 +1,18 @@
-interest:
-- item: Basketball
-- item: Fitness
-- item: Cooking
-- item: Cars
-- item: Friends
-- item: Spider-Man
+- interest:
+  item: Basketball
+  link:
+- interest:
+  item: Fitness
+  link:
+- interest:
+  item: Cooking
+  link:
+- interest:
+  item: Cars
+  link:
+- interest:
+  item: Friends
+  link:
+- interest:
+  item: Spider-man
+  link:
