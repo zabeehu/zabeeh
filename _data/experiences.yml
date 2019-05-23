@@ -4,20 +4,24 @@
   company: Shah Ventures, LLC, La Plata, MD
   details: "
   <ul>
-  <li>Designed and built ColdStoneDMV.com to help generate leads for catering services</li>
-  <li>Recommend and help execute SEO and PPC efforts to increase traffic and brand awareness</li>
-  <li>Assist in expanding social media presence and automation tools</li>
+  <li>Developed ColdStoneDMV.com to market and generate leads for ice cream catering services</li>
+  <ul>
+  <li>Technologies used: HTML, CSS, JavaScript, Jekyll, GitHub</li>
+  </ul>
+  <li>Maintain on-page SEO and develop strategies to generate organic traffic (local SEO, blogging, link building)</li>
+  <li>Run Facebook / Google Ad campaigns and optimize landing pages</li>
+  <li>Assist in expanding social media presence and implementing automation tools</li>
   </ul>"
 - experience:
-  role: Technology Support Specialist
+  role: Advisor
   time: February 2014 - Present
   company: JRZ Brothers Inc, Philadelphia, PA
   details: "
   <ul>
-  <li>Helped introduce computer and phone repair services which added another income source</li>
-  <li>Integrated network DVR security system which can be accessed anywhere</li>
-  <li>Found new suppliers for popular products which increased profitability</li>
+  <li>Develop website and marketing strategies to expand customer base and brand awareness</li>
+  <li>Manage social presence including Google reviews and Facebook page</li>
   <li>Implemented new POS system that includes business management and reporting capabilities</li>
+  <li>Integrated DVR security system on network that can be accessed anywhere</li>
   </ul>"
 - experience:
   role: IT Field Technician
